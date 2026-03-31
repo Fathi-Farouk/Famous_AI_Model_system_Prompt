@@ -42,18 +42,18 @@ By studying them, you can learn:
 
 ## 📂 Repository Structure
 
-Famous_AI_Model_system_Prompt/
-│
-├── prompts/
-│ ├── lovable.md
-│ ├── perplexity.md
-│ ├── cursor.md
-│ └── ...
-│
-├── images/
-│ └── diagrams (optional)
-│
-└── README.md
+Famous_AI_Model_system_Prompt/  
+│   
+├── prompts/  
+│ ├── lovable.md    
+│ ├── perplexity.md  
+│ ├── cursor.md  
+│ └── ...  
+│  
+├── images/  
+│ └── diagrams (optional)  
+│  
+└── README.md  
 
 
 
