@@ -72,11 +72,6 @@ Sponsor the most comprehensive repository of AI system prompts and reach thousan
 
 ---
 
-## Connect With Me
-
-- **X:** [NotLucknite](https://x.com/NotLucknite)
-- **Discord**: `x1xhlol`
-- **Email**: `lucknitelol@pm.me`
 
 
 ## Star History
