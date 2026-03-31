@@ -1,75 +1,60 @@
-<p align="center">
-  Support my work here: 
-  <a href="https://bags.fm/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS">Bags.fm</a> •
-  <a href="https://jup.ag/tokens/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS">Jupiter</a> •
-  <a href="https://photon-sol.tinyastro.io/en/lp/Qa5ZCCwrWoPYckNXXMCAhCsw8gafgYFAu1Qes3Grgv5?handle=">Photon</a> •
-  <a href="https://dexscreener.com/solana/qa5zccwrwopycknxxmcahcsw8gafgyfau1qes3grgv5">DEXScreener</a>
-</p>
+# 🤖 Famous AI Models System Prompts
 
-<p align="center">Official CA: DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS (on Solana)</p>
+A curated collection of **real-world system prompts** used by popular and trusted AI tools and platforms.
+
+> 🎯 Goal: Understand how modern AI systems are designed by studying the system prompts that shape their behavior.
 
 ---
 
-<p align="center">
-❤️ Love when open-source tools give back to open-source repos. Kilo Code is an AI coding agent with the system prompt, source code, and agent architecture all in the open on their GitHub repo.  
-<a href="[https://github.com/Kilo-Org/kilocode](https://github.com/Fathi-Farouk/Famous_AI_Model_system_Prompt/)">Let’s show them some love</a> ❤️
-</p>
+## 📌 What is this repository?
+
+This repository gathers and documents **system prompts** from well-known AI tools such as:
+
+- Lovable
+- Perplexity
+- Cursor
+- Devin
+- Chat-based AI assistants
+- Agent-based AI systems
+
+These prompts define:
+- Behavior and personality
+- Tool usage rules
+- Safety constraints
+- Reasoning patterns
+- Response structure
 
 ---
 
-<a href="https://discord.gg/NwzrWErdMU" target="_blank">
-  <img src="https://img.shields.io/discord/1402660735833604126?label=LeaksLab%20Discord&logo=discord&style=for-the-badge" alt="LeaksLab Discord" />
-</a>
+## 🧠 Why this matters
 
+System prompts are the **hidden layer** behind every AI system.
 
-<a href="https://trendshift.io/repositories/14084" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14084" alt="x1xhlol%2Fsystem-prompts-and-models-of-ai-tools | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+By studying them, you can learn:
 
-
-[![Build Status](https://app.cloudback.it/badge/x1xhlol/system-prompts-and-models-of-ai-tools)](https://cloudback.it)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/x1xhlol/system-prompts-and-models-of-ai-tools)
-
----
-
-## Support the Project
-
-If you find this collection valuable and appreciate the effort involved in obtaining and sharing these insights, please consider supporting the project.
-
-You can show your support via:
-
-- **Cryptocurrency:**  
-  - **BTC:** `bc1q7zldmzjwspnaa48udvelwe6k3fef7xrrhg5625`  
-  - **LTC:** `LRWgqwEYDwqau1WeiTs6Mjg85NJ7m3fsdQ`  
-  - **ETH:** `0x3f844B2cc3c4b7242964373fB0A41C4fdffB192A`
-- **Patreon:** https://patreon.com/lucknite
-- **Ko-fi:** https://ko-fi.com/lucknite
-
-Thank you for your support!
+- Prompt engineering best practices  
+- Agent design patterns  
+- Tool-calling strategies  
+- Guardrails and safety mechanisms  
+- How real AI products are built  
 
 ---
 
-## Security Notice for AI Startups
+## 📂 Repository Structure
 
-> **Warning:** If you're an AI startup, make sure your data is secure. Exposed prompts or AI models can easily become a target for hackers.
+Famous_AI_Model_system_Prompt/
+│
+├── prompts/
+│ ├── lovable.md
+│ ├── perplexity.md
+│ ├── cursor.md
+│ └── ...
+│
+├── images/
+│ └── diagrams (optional)
+│
+└── README.md
 
-> **Important:** Interested in securing your AI systems?  
-> Check out **[ZeroLeaks](https://zeroleaks.ai/)**, a service designed to help startups **identify and secure** prompt injection and system prompt extraction risks.
 
----
 
-# Sponsors
 
-Sponsor the most comprehensive repository of AI system prompts and reach thousands of developers.
-
-[Get Started](mailto:lucknitelol@pm.me)
-
----
-
-## Roadmap & Feedback
-
-> Open an issue.
-
-> **Latest Update:** 08/03/2026
-
----
-
-**Drop a star if you find this useful!**
