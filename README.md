@@ -12,7 +12,7 @@
 
 <p align="center">
 ❤️ Love when open-source tools give back to open-source repos. Kilo Code is an AI coding agent with the system prompt, source code, and agent architecture all in the open on their GitHub repo.  
-<a href="https://github.com/Kilo-Org/kilocode">Let’s show them some love</a> ❤️
+<a href="[https://github.com/Kilo-Org/kilocode](https://github.com/Fathi-Farouk/Famous_AI_Model_system_Prompt/)">Let’s show them some love</a> ❤️
 </p>
 
 ---
@@ -71,17 +71,5 @@ Sponsor the most comprehensive repository of AI system prompts and reach thousan
 > **Latest Update:** 08/03/2026
 
 ---
-
-
-
-## Star History
-
-<a href="https://www.star-history.com/#x1xhlol/system-prompts-and-models-of-ai-tools&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
-  </picture>
-</a>
 
 **Drop a star if you find this useful!**
